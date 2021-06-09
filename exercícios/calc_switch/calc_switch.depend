@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588277909 source:c:\users\elisa\desktop\linguagem c\calc_switch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+

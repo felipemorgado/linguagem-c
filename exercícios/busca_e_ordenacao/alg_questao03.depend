@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604883233 source:c:\users\elisa\desktop\linguagem c\alg_questao03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
