@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1604368593 source:c:\users\elisa\desktop\linguagem c\alocacao_dinamina_ex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1604368593 source:c:\users\elisa\desktop\alocacao_dinamina_ex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
