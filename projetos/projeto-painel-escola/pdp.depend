@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605408347 source:c:\users\elisa\desktop\pode apagaer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605408347 source:c:\users\elisa\desktop\projeto-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

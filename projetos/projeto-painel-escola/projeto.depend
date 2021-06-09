@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623209544 source:c:\users\elisa\desktop\projeto-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

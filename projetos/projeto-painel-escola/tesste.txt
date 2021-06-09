@@ -1,0 +1,38 @@
+Total: 4
+------------------------------
+Matricula: 1
+Nome: felps
+Idade: 18
+Sexo: d
+AV1: 10.00
+AV2: 10.00
+AV3: 10.00
+Media: 10.00
+------------------------------
+Matricula: 2
+Nome: fdsdsjksdfjk
+Idade: 9
+Sexo: f
+AV1: 9.00
+AV2: 8.00
+AV3: 7.00
+Media: 8.50
+------------------------------
+Matricula: 3
+Nome: 3
+Idade: 3
+Sexo: 3
+AV1: 3.00
+AV2: 3.00
+AV3: 33.00
+Media: 18.00
+------------------------------
+Matricula: 4
+Nome: 4
+Idade: 4
+Sexo: 4
+AV1: 4.00
+AV2: 4.00
+AV3: 4.00
+Media: 4.00
+------------------------------
