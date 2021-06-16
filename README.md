@@ -52,6 +52,4 @@ Este projeto está sob a liccença [Mit](https://pt.wikipedia.org/wiki/Licen%C3%
       <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623876115461.png" width="190px;" alt="felipe-octocat" style="max-width:100%;">
   </tr>
  </table>
- <p align="center">
     <h3 align="center">💜 By: <a href="https://github.com/felipemorgado">Felipe Morgado</a> 💜</h3>
- </p>
