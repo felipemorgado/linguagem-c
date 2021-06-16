@@ -1,5 +1,5 @@
 ## 💻 Sobre
-Foi um curso que eu fiz sobre C e com alguns exercícios/projetos que eu tive que fazer graças a faculdade.
+É um curso que eu fiz sobre C e com alguns exercícios/projetos que eu tive que fazer graças a faculdade.
 
 ---
 
