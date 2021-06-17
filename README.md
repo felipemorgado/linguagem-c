@@ -4,7 +4,7 @@
 ---
 
 ## 🛠️ Tecnologias
-Abaixo são as seguintes ferramentas que foram utilizadas:
+Abaixo são as ferramentas que foram utilizadas:
 
 * [C](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))
 
